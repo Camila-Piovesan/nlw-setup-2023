@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é uma aplicação web para ajudar a monitorar os hábitos diários.
 
+- [Visite o projeto online](https://camila-piovesan.github.io/nlw-setup-2023)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
